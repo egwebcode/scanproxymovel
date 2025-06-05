@@ -12,9 +12,9 @@ banner() {
     clear
     echo -e "${azul}"
     echo "╔══════════════════════════════════════════════╗"
-    echo "║           JS DOWNLOADER via WGET            ║"
+    echo "║           JS DOWNLOADER via WGET                     ║"
     echo "╠══════════════════════════════════════════════╣"
-    echo "║   Criado por ChatGPT — para sites modernos   ║"
+    echo "║   Criado por EG WEBCODE — para sites modernos        ║"
     echo "╚══════════════════════════════════════════════╝"
     echo -e "${reset}"
 }
